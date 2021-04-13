@@ -23,4 +23,6 @@ At each other user can do one action :
 
 Click to play youtube video
 
+DANGER : link is opening at current tab & video contains music
+
 [![preview](http://img.youtube.com/vi/3p9TaTaHV4Q/0.jpg)](http://www.youtube.com/watch?v=3p9TaTaHV4Q "https://raw.githubusercontent.com/andybeardness/Android-CoffeChain/main/imgs/preview.jpg")
