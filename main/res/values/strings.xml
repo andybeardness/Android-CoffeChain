@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Сеть кофеен</string>
+  <string name="descr_logo">Картинка</string>
+  <string-array name="array_options">
+    <item>Напитки</item>
+    <item>Еда</item>
+    <item>Магазины</item>
+  </string-array>
+  <string name="error">Ошибка</string>
+  <string name="desrc_drink">Описание</string>
+  <string name="button_buy">Купить</string>
+  <string name="button_visit">Забронировать столик</string>
+</resources>
