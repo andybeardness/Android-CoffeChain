@@ -23,7 +23,7 @@ At each other user can do one action :
 
 Click to play youtube video
 
-⚠️ _DANGER : 
+⚠️ _DANGER : _
 
 - _Link is opening at current tab_ 
 - _Video contains music_
